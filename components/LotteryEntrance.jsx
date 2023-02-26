@@ -139,6 +139,7 @@ export default function LotteryEntrance() {
       ) : (
         <div>Please connect to a supported chain </div>
       )}
+      <div>YOOO LOOSERSSS</div>
     </div>
   );
 }
